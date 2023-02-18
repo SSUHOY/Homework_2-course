@@ -1,6 +1,6 @@
 let user = {
     name: "John",
-    age: 29,
+    age: 35,
     isAdmin: true,
     cityOfResidence: "Russia"
 }
