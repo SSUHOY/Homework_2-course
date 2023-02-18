@@ -5,4 +5,4 @@ let user = {
     cityOfResidence: "Russia"
 }
 
-
+delete user.cityOfResidence;
