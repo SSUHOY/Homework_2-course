@@ -1,1 +1,2 @@
-let age = prompt('Сколько Вам лет?')
+let age = prompt('Сколько Вам лет?');
+alert(age);
