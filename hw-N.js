@@ -1,4 +1,8 @@
-let a = 9;
-let b = 2;
-result = a % b;
-alert(result);
+let num = 1;
+num += 5;
+num -= 3;
+num *= 7;
+num /= 3;
+num += 1;
+num -= 1;
+alert(num);
