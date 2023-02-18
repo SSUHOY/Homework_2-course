@@ -2,6 +2,7 @@ let user = {
     name: "John",
     age: 29,
     isAdmin: true
+    cityOfResidence: "Russia",
 }
 
 
