@@ -6,3 +6,6 @@ let user = {
 }
 
 delete user.cityOfResidence;
+
+let info = prompt('Какую информацию хотите узнать о пользователе?')
+info = alert(`${user}`)
