@@ -1,8 +1,10 @@
 let user = {
     name: "John",
-    age: 30,
+    age: 29,
     isAdmin: true,
 }
 
-let age = Number('30');
-let isAdmin = Boolean('true');
+age = Number('29');
+isAdmin = Boolean('true');
+
+
