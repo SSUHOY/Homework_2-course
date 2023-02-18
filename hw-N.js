@@ -4,6 +4,8 @@ alert(year);
 const author = ('Java Script был создан Бренданом Эйхом');
 alert(author);
 
+let age = prompt('Сколько Вам лет?');
+alert(age);
 
 let user = {
     name: "John",
